@@ -294,14 +294,14 @@ var APP_DATA = {
       ],
       "faceSize": 1680,
       "initialViewParameters": {
-        "yaw": 1.1936596722376365,
-        "pitch": 0.0996675792827233,
-        "fov": 1.35820747241737
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": 1.3063163358197603,
-          "pitch": 0.039455959088110504,
+          "yaw": -0.46124131851420813,
+          "pitch": 0.012767736061569224,
           "rotation": 0,
           "target": "3-msb---atrium---entrance"
         }
@@ -347,7 +347,7 @@ var APP_DATA = {
           "yaw": 1.8005213910384894,
           "pitch": 0.08373531541156254,
           "rotation": 0,
-          "target": "9-first-floor---study-space-and-staff-offices"
+          "target": "8-first-floor---study-space"
         },
         {
           "yaw": 0.12091873771997008,
@@ -356,7 +356,14 @@ var APP_DATA = {
           "target": "3-msb---atrium---entrance"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -1.185313894779643,
+          "pitch": 0.0789011614356383,
+          "title": "Statistics Support Office<br>",
+          "text": "Text"
+        }
+      ]
     },
     {
       "id": "8-first-floor---study-space",
@@ -382,9 +389,9 @@ var APP_DATA = {
       ],
       "faceSize": 1680,
       "initialViewParameters": {
-        "yaw": -1.3478284038824668,
-        "pitch": 0.14929055998464236,
-        "fov": 1.5707963267948966
+        "yaw": -2.426398811633362,
+        "pitch": 0.25832122269239477,
+        "fov": 1.35820747241737
       },
       "linkHotspots": [
         {
@@ -470,9 +477,9 @@ var APP_DATA = {
       ],
       "faceSize": 1680,
       "initialViewParameters": {
-        "yaw": 2.233512045946954,
-        "pitch": 0.17331999263965692,
-        "fov": 1.5707963267948966
+        "yaw": -2.8712806875611836,
+        "pitch": -0.0471172335956247,
+        "fov": 1.35820747241737
       },
       "linkHotspots": [
         {
@@ -526,8 +533,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.4090137651448078,
-          "pitch": -0.042107859590368335,
+          "yaw": 1.3231327936688562,
+          "pitch": 0.023612287464857218,
           "rotation": 0,
           "target": "10-msb---atrium---exit"
         }
@@ -576,8 +583,8 @@ var APP_DATA = {
           "target": "0-the-courtyard"
         },
         {
-          "yaw": -1.0858916225809665,
-          "pitch": 0.06802107584140593,
+          "yaw": -1.2452808354647917,
+          "pitch": 0.07041106905243844,
           "rotation": 0,
           "target": "10-msb---atrium---exit"
         }
@@ -652,9 +659,9 @@ var APP_DATA = {
       ],
       "faceSize": 1680,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 2.7004082219088517,
+        "pitch": 0.1693931198470473,
+        "fov": 1.35820747241737
       },
       "linkHotspots": [
         {
@@ -702,7 +709,32 @@ var APP_DATA = {
           "target": "1-university-road"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -2.344588967882615,
+          "pitch": 0.12316631750586637,
+          "title": "Warwick Arts Centre<br>",
+          "text": "Text"
+        },
+        {
+          "yaw": 0.39161034682692275,
+          "pitch": 0.11446976858993807,
+          "title": "Student Union building<br>",
+          "text": "Text"
+        },
+        {
+          "yaw": 1.3212727919434695,
+          "pitch": 0.11563557841628835,
+          "title": "Central Piazza and big screen<br>",
+          "text": "Text"
+        },
+        {
+          "yaw": -1.1269395304522565,
+          "pitch": 0.07711196739897375,
+          "title": "Rootes Grocery store<br>",
+          "text": "University shopping precinct for postal service, ATM and groceries.<br>"
+        }
+      ]
     }
   ],
   "name": "MSB_Virtual Tour",
